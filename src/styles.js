@@ -31,3 +31,44 @@ export const MainImage = styled.img`
   width: 700px;
   padding: 20px;
 `;
+// --------
+export const Vase1 = styled.img`
+  width: 100px;
+  display: inline-block;
+  position: absolute;
+  top: 140px;
+  right: 225px;
+`;
+export const Vase2 = styled.img`
+  width: 100px;
+  display: inline-block;
+  position: absolute;
+  top: 140px;
+  right: 415px;
+`;
+export const Vase3 = styled.img`
+  width: 100px;
+  display: inline-block;
+  position: absolute;
+  top: 140px;
+  right: 615px;
+`;
+export const Vase4 = styled.img`
+  width: 100px;
+  display: inline-block;
+  position: absolute;
+  top: 340px;
+  right: 520px;
+`;
+export const Vase5 = styled.img`
+  width: 100px;
+  display: inline-block;
+  position: absolute;
+  top: 340px;
+  right: 325px;
+`;
+export const ListWrapper = styled.div`
+  display: inline-block;
+  position: absolute;
+  width: 100px;
+`;
